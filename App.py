@@ -2,7 +2,7 @@
 # coding: utf-8
 #<img src="{{ user_image }}" alt="User Image">
 
-
+import imageai
 from imageai.Detection import ObjectDetection
 from PIL import Image
 import glob
